@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Surge URL: http://third-direction.surge.sh/
 =======
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
