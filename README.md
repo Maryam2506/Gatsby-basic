@@ -1,6 +1,6 @@
 
 <h2> Surge URL: http://third-direction.surge.sh/ </h2>
-=======
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
